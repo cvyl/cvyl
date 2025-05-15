@@ -95,7 +95,7 @@ I hope to make positive connections with people on the internet. I want to make 
 
 <p align="center">
   <a href="mailto:i@cvyl.me">Email</a> • 
-  <a href="https://medium.com/@mikka123">Medium</a> • 
+  <a href="https://medium.com/@mikka123">Medium</a>
 </p>
 
 <a href="https://github.com/cvyl">
