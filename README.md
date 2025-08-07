@@ -1,7 +1,7 @@
 <h1> cvyl </h1>
 
 > [!IMPORTANT]
-> **Development has currently fully halted**
+> **Development has fully halted**
 > 
 > > I am currently working on pursuing my education and mental health. I will not be able to work on any GitHub projects.
 > >
